@@ -1,4 +1,3 @@
-# PRODIGY_CS_02# 
 🔐 Streamlit Image Encryptor
 
 A simple and secure image encryption/decryption tool built with Python and Streamlit.  
